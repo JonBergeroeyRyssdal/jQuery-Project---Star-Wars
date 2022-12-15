@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#name {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+img {
+    box-shadow: 10px 10px 5px #ccc;
+    border-radius: 25px;
+}
+
+#name {
+    text-shadow: 10px 10px 5px #ccc;
+    ;
+}
+
+button {
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px #ccc;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    padding: 10px;
+
+}
+
+.box {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+
+}
